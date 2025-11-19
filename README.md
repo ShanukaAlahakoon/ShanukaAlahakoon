@@ -6,8 +6,11 @@
 
 <img src="https://komarev.com/ghpvc/?username=ShanukaAlahakoon&label=Profile%20views&color=0e75b6&style=flat" alt="ShanukaAlahakoon" />
 
-<code><img height="35" src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F58A07&center=true&vCenter=true&width=435&lines=AI%2FML+Enthusiast;Full+Stack+Developer;Software+Quality+Assurance;Java+%26+Python+Developer" alt="Typing SVG" /></code>
-
+<div align="center">
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F58A07&center=true&vCenter=true&width=435&lines=AI%2FML+Enthusiast;Full+Stack+Developer;Software+Quality+Assurance;Java+%26+Python+Developer&v=1" alt="Typing SVG" />
+</a>
+</div>
 </div>
 
 ---
@@ -25,7 +28,7 @@
   &nbsp; &nbsp; &nbsp;
 <a href="https://linkedin.com/in/shanuka-alahakoon" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" height="30" width="40" /></a>
 &nbsp; &nbsp; &nbsp;
-<a href="mailto:shanukaalahakoon456@gmail.com" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/gmail.svg" alt="gmail" height="30" width="40" /></a>
+<a href="mailto:shanukaalahakoon456@gmail.com" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" alt="gmail" height="30" width="40" /></a>
 &nbsp; &nbsp; &nbsp; 
 <a href="https://facebook.com/Shanuka.Alahakoon1227" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="facebook" height="30" width="40" /></a>
 
